@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -FAmaX1
+ls -map | sort -d
