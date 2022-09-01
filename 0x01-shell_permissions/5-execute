@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chwon u+x hello
+chwon u+x hello
