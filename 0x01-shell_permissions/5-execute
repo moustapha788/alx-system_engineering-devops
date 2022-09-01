@@ -1,1 +1,2 @@
 #!/bin/bash
+sudo chwon u+x hello
