@@ -1,1 +1,2 @@
 #!/bin/bash
+sort input_file | uniq -d
