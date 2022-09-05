@@ -1,2 +1,2 @@
 #!/bin/bash
-sort input_file | uniq -d
+tail -n 1 iacta >> iacta
