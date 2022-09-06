@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "$((2#$BINARY))" #avec bc :ibase -> input; obase -> output
-    
+echo "$((2#$BINARY))"
